@@ -1,0 +1,7 @@
+*pycache*
+*.log
+*.tmp
+*.env
+*.zip
+*collab.ipynb
+*.ipynb_checkpoints
